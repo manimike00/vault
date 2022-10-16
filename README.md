@@ -63,6 +63,9 @@ gated by authentication and authorization methods
 
 ![vault](./vault-arch.png)
 
+## Vault Components
+![Vault Components](./vault-components.png)
+
 
 
 
