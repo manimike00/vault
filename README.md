@@ -61,7 +61,7 @@ gated by authentication and authorization methods
 
 ## Vault Architecture
 
-(./vault-arch.png)
+![vault](./vault-arch.png)
 
 
 
