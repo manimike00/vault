@@ -66,6 +66,15 @@ gated by authentication and authorization methods
 ## Vault Components
 ![Vault Components](./vault-components.png)
 
+## Vault HA Cluster with Integrated
+![vault-ha](./vault-ha.png)
 
+## Vault HA Cluster with Consul
+![vault-consul](./vault-consul.png)
+
+## Ways to use Vault
+1. CLI (Vault & API)
+2. Hashicorp Cloud Platform (HCP)
+3. UI
 
 
